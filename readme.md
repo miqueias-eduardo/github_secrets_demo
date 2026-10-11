@@ -40,4 +40,4 @@ Porque ela poderia ser exposta a pessoas com acesso ao repositório, permitindo 
 
 ## 5. Evidência de execução
 
-Após configurar o Secret e executar o pipeline, adicionar uma captura de tela mostrando a execução concluída com sucesso, sem exibir o valor confidencial nos logs.
+![evidencia de execução do github secrets](docs/github-actions-sucesso.png)
